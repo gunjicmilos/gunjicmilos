@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjicmilos&label=Profile%20views&color=0e75b6&style=flat" alt="gunjicmilos" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET CORE 6**
+- 🌱 I’m currently learning **ASP.NET CORE 7**
 
 - 💬 Ask me about **ASP.NET MVC and WebApi**
 
