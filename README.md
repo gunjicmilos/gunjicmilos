@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjicmilos&label=Profile%20views&color=0e75b6&style=flat" alt="gunjicmilos" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET CORE 7**
+- 🌱 I’m currently learning **ASP.NET CORE 8**
 
-- 💬 Ask me about **ASP.NET MVC and WebApi**
+- 💬 Ask me about **ASP.NET WebApi and MVC**
 
 - 📫 How to reach me **gunjicm.milos99@gmail.com**
 
